@@ -1,12 +1,16 @@
-## Welcome to GitHub Pages
+## Backstory
 
-You can use the [editor on GitHub](https://github.com/IanT0305/Family-War/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Preston an evil space woman is trying to take over the world. YOU are the hero and you need to save the MILKY WAY galaxy. 
+You are the chosen one and you must defeat his entire army by your self. GOOD LUCK soldier, don't die and have fun out 
+there but always remember don't die or else your lame.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### instructions
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Click space to start the game.
+2. Once started you can press space to shoot as they drop bombs on you.
+3. Move side to side with left and right arrows 
+4. Click the X in the top right exit the game at any time.
+5. Click "p" on the key board to pause or unpause at any time
 
 ```markdown
 Syntax highlighted code block
@@ -28,10 +32,10 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Scoring
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/IanT0305/Family-War/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Gameplay
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
